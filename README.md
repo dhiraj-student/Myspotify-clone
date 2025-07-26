@@ -36,5 +36,6 @@ This project is a frontend replica of the Spotify music streaming interface. It 
 - Working with events and timers in JavaScript  
 
 
+![Project Preview](screenshot.png)
 
 
