@@ -36,6 +36,7 @@ This project is a frontend replica of the Spotify music streaming interface. It 
 - Working with events and timers in JavaScript  
 
 # Live Demo
-[Click here to view the project]
+[Click here to view the project]https://dhiraj-student.github.io/Myspotify-clone/
+
 
 
