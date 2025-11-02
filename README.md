@@ -35,4 +35,7 @@ This project is a frontend replica of the Spotify music streaming interface. It 
 - Styling a complex UI with CSS Flexbox and Grid  
 - Working with events and timers in JavaScript  
 
+# Live Demo
+[Click here to view the project]
+
 
